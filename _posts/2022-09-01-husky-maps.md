@@ -3,9 +3,6 @@ title: Husky Maps
 date: 2022-09-01 12:00:00 -0800
 categories: [Projects, Academic]
 tags: [maps, java, algorithms, data-structures]
-image:
-  path: /assets/img/projects/husky maps.png
-  alt: Husky Maps Application
 ---
 
 # Husky Maps

@@ -3,9 +3,6 @@ title: Personal Website Portfolio
 date: 2024-01-01 12:00:00 -0800
 categories: [Projects, Web Development]
 tags: [html, scss, javascript, responsive-design]
-image:
-  path: /assets/img/projects/personal-website-project.jpg
-  alt: Personal Website Portfolio Screenshot
 ---
 
 # Personal Website Portfolio

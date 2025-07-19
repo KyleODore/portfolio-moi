@@ -3,9 +3,6 @@ title: FPT Compliance and Analytics App
 date: 2023-06-01 12:00:00 -0800
 categories: [Projects, Enterprise Software]
 tags: [compliance, analytics, enterprise, fpt]
-image:
-  path: /assets/img/projects/FPT_Software_Logo.png
-  alt: FPT Software Logo
 ---
 
 # FPT Compliance and Analytics Application
